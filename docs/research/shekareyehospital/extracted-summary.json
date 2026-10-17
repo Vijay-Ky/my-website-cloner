@@ -1,0 +1,1288 @@
+{
+  "totalImages": 43,
+  "uniqueImages": [
+    "https://shekareyehospital.com/wp-content/uploads/2023/10/24-300x91.png?x96751",
+    "https://shekareyehospital.com/wp-content/uploads/2023/02/clipart2478763-1.webp?x96751",
+    "https://shekareyehospital.com/wp-content/uploads/2023/10/clipart2478763-150x150.png?x96751",
+    "https://shekareyehospital.com/wp-content/uploads/2026/06/Untitled-designaer-2.webp?x96751",
+    "https://shekareyehospital.com/wp-content/uploads/2026/06/Hero-Section-doctor-and-patient-image.webp?x96751",
+    "https://shekareyehospital.com/wp-content/uploads/2023/03/Skew-Rectangle-3.svg?x96751",
+    "https://shekareyehospital.com/wp-content/uploads/2023/02/eye-checkup-697x1024.webp?x96751",
+    "https://shekareyehospital.com/wp-content/uploads/2023/02/Our-Doctors-535x1024.webp?x96751",
+    "https://shekareyehospital.com/wp-content/uploads/2023/02/Appointment.webp?x96751",
+    "https://shekareyehospital.com/wp-content/uploads/2023/02/Hospital-1024x878.webp?x96751",
+    "https://shekareyehospital.com/wp-content/uploads/2021/09/Cataract-eye-x150.webp?x96751",
+    "https://shekareyehospital.com/wp-content/uploads/2021/09/Lasik-eye-x150.webp?x96751",
+    "https://shekareyehospital.com/wp-content/uploads/2021/09/Diabetic-eye-x150.webp?x96751",
+    "https://shekareyehospital.com/wp-content/uploads/2021/09/Squint-eye-x150.webp?x96751",
+    "https://shekareyehospital.com/wp-content/uploads/2021/09/Glaucoma-eye-x150.webp?x96751",
+    "https://shekareyehospital.com/wp-content/uploads/2021/09/Pediatric-eye-x150-1.webp?x96751",
+    "https://shekareyehospital.com/wp-content/uploads/2023/09/Occuloplasty-Procedures-Icon-png-1024x1024.png?x96751",
+    "https://shekareyehospital.com/wp-content/uploads/2023/09/Cornea-1-1024x1024.png?x96751",
+    "https://shekareyehospital.com/wp-content/uploads/2023/10/Myopia-1-1024x1024.png?x96751",
+    "https://shekareyehospital.com/wp-content/uploads/2023/09/Vitrectomy-Surgery-2-1024x1024.png?x96751",
+    "https://shekareyehospital.com/wp-content/uploads/2023/09/Retina-2-1024x1024.png?x96751",
+    "https://shekareyehospital.com/wp-content/uploads/2023/03/SEH-Online-Appointment-1024x679.webp?x96751",
+    "https://shekareyehospital.com/wp-content/uploads/2025/10/SEH-WEB-Image-1.webp?x96751",
+    "https://shekareyehospital.com/wp-content/uploads/2026/01/VK-award-receiving1-1024x683.webp?x96751",
+    "https://shekareyehospital.com/wp-content/uploads/2026/10/ChatGPT-Image-Oct-1-2026-03_26_05-PM-1024x576.png?x96751",
+    "https://shekareyehospital.com/wp-content/uploads/2025/12/Dr.-Archana-Singh-150x150.webp?x96751",
+    "https://shekareyehospital.com/wp-content/uploads/2026/09/ChatGPT-Image-Sep-11-2026-05_36_02-PM-1024x683.webp?x96751",
+    "https://shekareyehospital.com/wp-content/uploads/2025/12/Dr.-Srinivas-K-N-150x150.webp?x96751",
+    "https://shekareyehospital.com/wp-content/uploads/2026/08/ChatGPT-Image-Aug-31-2026-01_43_38-PM-1024x683.png?x96751",
+    "https://shekareyehospital.com/wp-content/uploads/2025/12/Dr.-Srushti-D-Sv-150x150.webp?x96751",
+    "https://shekareyehospital.com/wp-content/uploads/2025/03/maxresdefault.webp?x96751",
+    "https://shekareyehospital.com/wp-content/uploads/2025/03/maxresdefault.jpg?x96751",
+    "https://shekareyehospital.com/wp-content/uploads/2025/03/sddefault.jpg?x96751",
+    "https://shekareyehospital.com/wp-content/uploads/2024/01/maxresdefault-1.jpg?x96751",
+    "https://shekareyehospital.com/wp-content/uploads/2024/03/SEH-THU-1.jpg?x96751",
+    "https://shekareyehospital.com/wp-content/uploads/2024/01/Thumbnail1.jpg?x96751",
+    "https://shekareyehospital.com/wp-content/uploads/2024/01/maxresdefault.jpg?x96751",
+    "https://shekareyehospital.com/wp-content/uploads/2024/01/hqdefault.jpg?x96751",
+    "https://shekareyehospital.com/wp-content/uploads/elementor/thumbs/SEH-Hospital-qwp08097bf4v5h1kkobks56yejtsoy97qwc78j5u5s.webp?x96751",
+    "https://shekareyehospital.com/wp-content/uploads/2023/10/24-1024x311.png?x96751",
+    "https://shekareyehospital.com/wp-content/uploads/2023/10/NABH-2.png?x96751",
+    "https://shekareyehospital.com/wp-content/uploads/2023/02/SEH-Logo-White.webp?x96751"
+  ],
+  "images": [
+    {
+      "src": "https://shekareyehospital.com/wp-content/uploads/2023/10/24-300x91.png?x96751",
+      "alt": "Shekar eye hospital logo",
+      "width": "300",
+      "height": "91",
+      "srcset": "https://shekareyehospital.com/wp-content/uploads/2023/10/24-300x91.png 300w, https://shekareyehospital.com/wp-content/uploads/2023/10/24-1024x311.png 1024w, https://shekareyehospital.com/wp-content/uploads/2023/10/24-768x233.png 768w, https://shekareyehospital.com/wp-content/uploads/2023/10/24.png 1034w"
+    },
+    {
+      "src": "https://shekareyehospital.com/wp-content/uploads/2023/02/clipart2478763-1.webp?x96751",
+      "alt": "",
+      "width": "74",
+      "height": "75",
+      "srcset": "https://shekareyehospital.com/wp-content/uploads/2023/02/clipart2478763-1.webp 74w, https://shekareyehospital.com/wp-content/uploads/2023/02/clipart2478763-1-50x51.webp 50w"
+    },
+    {
+      "src": "https://shekareyehospital.com/wp-content/uploads/2023/10/24-300x91.png?x96751",
+      "alt": "Shekar eye hospital logo",
+      "width": "300",
+      "height": "91",
+      "srcset": "https://shekareyehospital.com/wp-content/uploads/2023/10/24-300x91.png 300w, https://shekareyehospital.com/wp-content/uploads/2023/10/24-1024x311.png 1024w, https://shekareyehospital.com/wp-content/uploads/2023/10/24-768x233.png 768w, https://shekareyehospital.com/wp-content/uploads/2023/10/24.png 1034w"
+    },
+    {
+      "src": "https://shekareyehospital.com/wp-content/uploads/2023/10/clipart2478763-150x150.png?x96751",
+      "alt": "NABH logo",
+      "width": "150",
+      "height": "150",
+      "srcset": "https://shekareyehospital.com/wp-content/uploads/2023/10/clipart2478763-150x150.png 150w, https://shekareyehospital.com/wp-content/uploads/2023/10/clipart2478763-300x300.png 300w, https://shekareyehospital.com/wp-content/uploads/2023/10/clipart2478763-1024x1024.png 1024w, https://shekareyehospital.com/wp-content/uploads/2023/10/clipart2478763-768x768.png 768w, https://shekareyehospital.com/wp-content/uploads/2023/10/elementor/thumbs/clipart2478763-qi5n9ce5ys14fj8qr5yhhiajbmv38s3gblw6epqaq8.png 200w, https://shekareyehospital.com/wp-content/uploads/2023/10/elementor/thumbs/clipart2478763-qwp080958v5i9dti8c5fv1kpogjis8uj94stpr14i0.png 180w, https://shekareyehospital.com/wp-content/uploads/2023/10/clipart2478763.png 1328w"
+    },
+    {
+      "src": "https://shekareyehospital.com/wp-content/uploads/2026/06/Untitled-designaer-2.webp?x96751",
+      "alt": "",
+      "width": "500",
+      "height": "502",
+      "srcset": "https://shekareyehospital.com/wp-content/uploads/2026/06/Untitled-designaer-2.webp 500w, https://shekareyehospital.com/wp-content/uploads/2026/06/Untitled-designaer-2-300x300.webp 300w, https://shekareyehospital.com/wp-content/uploads/2026/06/Untitled-designaer-2-150x150.webp 150w, https://shekareyehospital.com/wp-content/uploads/2026/06/Untitled-designaer-2-50x50.webp 50w"
+    },
+    {
+      "src": "https://shekareyehospital.com/wp-content/uploads/2026/06/Hero-Section-doctor-and-patient-image.webp?x96751",
+      "alt": "doctor-and-patient",
+      "width": "470",
+      "height": "346",
+      "srcset": "https://shekareyehospital.com/wp-content/uploads/2026/06/Hero-Section-doctor-and-patient-image.webp 470w, https://shekareyehospital.com/wp-content/uploads/2026/06/Hero-Section-doctor-and-patient-image-300x221.webp 300w, https://shekareyehospital.com/wp-content/uploads/2026/06/Hero-Section-doctor-and-patient-image-50x37.webp 50w"
+    },
+    {
+      "src": "https://shekareyehospital.com/wp-content/uploads/2023/03/Skew-Rectangle-3.svg?x96751",
+      "alt": "skew rectangle",
+      "width": "617",
+      "height": "1024",
+      "srcset": null
+    },
+    {
+      "src": "https://shekareyehospital.com/wp-content/uploads/2023/02/eye-checkup-697x1024.webp?x96751",
+      "alt": "eye checkup scaled",
+      "width": "697",
+      "height": "1024",
+      "srcset": "https://shekareyehospital.com/wp-content/uploads/2023/02/eye-checkup-697x1024.webp 697w, https://shekareyehospital.com/wp-content/uploads/2023/02/eye-checkup-204x300.webp 204w, https://shekareyehospital.com/wp-content/uploads/2023/02/eye-checkup-768x1128.webp 768w, https://shekareyehospital.com/wp-content/uploads/2023/02/eye-checkup-1046x1536.webp 1046w, https://shekareyehospital.com/wp-content/uploads/2023/02/eye-checkup-1395x2048.webp 1395w, https://shekareyehospital.com/wp-content/uploads/2023/02/eye-checkup-1600x2349.webp 1600w, https://shekareyehospital.com/wp-content/uploads/2023/02/eye-checkup-409x600.webp 409w, https://shekareyehospital.com/wp-content/uploads/2023/02/eye-checkup-scaled.webp 1744w"
+    },
+    {
+      "src": "https://shekareyehospital.com/wp-content/uploads/2023/02/Our-Doctors-535x1024.webp?x96751",
+      "alt": "doctor image for referrence",
+      "width": "535",
+      "height": "1024",
+      "srcset": "https://shekareyehospital.com/wp-content/uploads/2023/02/Our-Doctors-535x1024.webp 535w, https://shekareyehospital.com/wp-content/uploads/2023/02/Our-Doctors-157x300.webp 157w, https://shekareyehospital.com/wp-content/uploads/2023/02/Our-Doctors-768x1471.webp 768w, https://shekareyehospital.com/wp-content/uploads/2023/02/Our-Doctors-802x1536.webp 802w, https://shekareyehospital.com/wp-content/uploads/2023/02/Our-Doctors-1069x2048.webp 1069w, https://shekareyehospital.com/wp-content/uploads/2023/02/Our-Doctors-313x600.webp 313w, https://shekareyehospital.com/wp-content/uploads/2023/02/Our-Doctors.webp 1216w"
+    },
+    {
+      "src": "https://shekareyehospital.com/wp-content/uploads/2023/02/Appointment.webp?x96751",
+      "alt": "",
+      "width": "556",
+      "height": "470",
+      "srcset": "https://shekareyehospital.com/wp-content/uploads/2023/02/Appointment.webp 556w, https://shekareyehospital.com/wp-content/uploads/2023/02/Appointment-300x254.webp 300w"
+    },
+    {
+      "src": "https://shekareyehospital.com/wp-content/uploads/2023/02/Hospital-1024x878.webp?x96751",
+      "alt": "",
+      "width": "800",
+      "height": "686",
+      "srcset": "https://shekareyehospital.com/wp-content/uploads/2023/02/Hospital-1024x878.webp 1024w, https://shekareyehospital.com/wp-content/uploads/2023/02/Hospital-300x257.webp 300w, https://shekareyehospital.com/wp-content/uploads/2023/02/Hospital-768x659.webp 768w, https://shekareyehospital.com/wp-content/uploads/2023/02/Hospital-1536x1318.webp 1536w, https://shekareyehospital.com/wp-content/uploads/2023/02/Hospital-2048x1757.webp 2048w, https://shekareyehospital.com/wp-content/uploads/2023/02/Hospital-1600x1372.webp 1600w, https://shekareyehospital.com/wp-content/uploads/2023/02/Hospital-600x515.webp 600w"
+    },
+    {
+      "src": "https://shekareyehospital.com/wp-content/uploads/2021/09/Cataract-eye-x150.webp?x96751",
+      "alt": "Pediatric Ophthal",
+      "width": "150",
+      "height": "150",
+      "srcset": null
+    },
+    {
+      "src": "https://shekareyehospital.com/wp-content/uploads/2021/09/Lasik-eye-x150.webp?x96751",
+      "alt": "Lasik Surgery",
+      "width": "150",
+      "height": "150",
+      "srcset": null
+    },
+    {
+      "src": "https://shekareyehospital.com/wp-content/uploads/2021/09/Diabetic-eye-x150.webp?x96751",
+      "alt": "Pediatric Ophthal",
+      "width": "150",
+      "height": "150",
+      "srcset": null
+    },
+    {
+      "src": "https://shekareyehospital.com/wp-content/uploads/2021/09/Squint-eye-x150.webp?x96751",
+      "alt": "Pediatric Ophthal",
+      "width": "150",
+      "height": "150",
+      "srcset": null
+    },
+    {
+      "src": "https://shekareyehospital.com/wp-content/uploads/2021/09/Glaucoma-eye-x150.webp?x96751",
+      "alt": "Lasik Surgery",
+      "width": "150",
+      "height": "150",
+      "srcset": null
+    },
+    {
+      "src": "https://shekareyehospital.com/wp-content/uploads/2021/09/Pediatric-eye-x150-1.webp?x96751",
+      "alt": "",
+      "width": "150",
+      "height": "150",
+      "srcset": "https://shekareyehospital.com/wp-content/uploads/2021/09/Pediatric-eye-x150-1.webp 150w, https://shekareyehospital.com/wp-content/uploads/2021/09/Pediatric-eye-x150-1-50x50.webp 50w"
+    },
+    {
+      "src": "https://shekareyehospital.com/wp-content/uploads/2023/09/Occuloplasty-Procedures-Icon-png-1024x1024.png?x96751",
+      "alt": "occuloplasty procedure",
+      "width": "800",
+      "height": "800",
+      "srcset": "https://shekareyehospital.com/wp-content/uploads/2023/09/Occuloplasty-Procedures-Icon-png-1024x1024.png 1024w, https://shekareyehospital.com/wp-content/uploads/2023/09/Occuloplasty-Procedures-Icon-png-300x300.png 300w, https://shekareyehospital.com/wp-content/uploads/2023/09/Occuloplasty-Procedures-Icon-png-150x150.png 150w, https://shekareyehospital.com/wp-content/uploads/2023/09/Occuloplasty-Procedures-Icon-png-768x768.png 768w, https://shekareyehospital.com/wp-content/uploads/2023/09/Occuloplasty-Procedures-Icon-png-1600x1600.png 1600w, https://shekareyehospital.com/wp-content/uploads/2023/09/Occuloplasty-Procedures-Icon-png-1536x1536.png 1536w, https://shekareyehospital.com/wp-content/uploads/2023/09/Occuloplasty-Procedures-Icon-png.png 2000w"
+    },
+    {
+      "src": "https://shekareyehospital.com/wp-content/uploads/2023/09/Cornea-1-1024x1024.png?x96751",
+      "alt": "cornea",
+      "width": "800",
+      "height": "800",
+      "srcset": "https://shekareyehospital.com/wp-content/uploads/2023/09/Cornea-1-1024x1024.png 1024w, https://shekareyehospital.com/wp-content/uploads/2023/09/Cornea-1-300x300.png 300w, https://shekareyehospital.com/wp-content/uploads/2023/09/Cornea-1-150x150.png 150w, https://shekareyehospital.com/wp-content/uploads/2023/09/Cornea-1-768x768.png 768w, https://shekareyehospital.com/wp-content/uploads/2023/09/Cornea-1-1600x1600.png 1600w, https://shekareyehospital.com/wp-content/uploads/2023/09/Cornea-1-1536x1536.png 1536w, https://shekareyehospital.com/wp-content/uploads/2023/09/Cornea-1.png 2000w"
+    },
+    {
+      "src": "https://shekareyehospital.com/wp-content/uploads/2023/10/Myopia-1-1024x1024.png?x96751",
+      "alt": "mypoia",
+      "width": "800",
+      "height": "800",
+      "srcset": "https://shekareyehospital.com/wp-content/uploads/2023/10/Myopia-1-1024x1024.png 1024w, https://shekareyehospital.com/wp-content/uploads/2023/10/Myopia-1-300x300.png 300w, https://shekareyehospital.com/wp-content/uploads/2023/10/Myopia-1-150x150.png 150w, https://shekareyehospital.com/wp-content/uploads/2023/10/Myopia-1-768x768.png 768w, https://shekareyehospital.com/wp-content/uploads/2023/10/Myopia-1-1600x1600.png 1600w, https://shekareyehospital.com/wp-content/uploads/2023/10/Myopia-1-1536x1536.png 1536w, https://shekareyehospital.com/wp-content/uploads/2023/10/Myopia-1.png 2000w"
+    },
+    {
+      "src": "https://shekareyehospital.com/wp-content/uploads/2023/09/Vitrectomy-Surgery-2-1024x1024.png?x96751",
+      "alt": "vitrectomy surgery",
+      "width": "800",
+      "height": "800",
+      "srcset": "https://shekareyehospital.com/wp-content/uploads/2023/09/Vitrectomy-Surgery-2-1024x1024.png 1024w, https://shekareyehospital.com/wp-content/uploads/2023/09/Vitrectomy-Surgery-2-300x300.png 300w, https://shekareyehospital.com/wp-content/uploads/2023/09/Vitrectomy-Surgery-2-150x150.png 150w, https://shekareyehospital.com/wp-content/uploads/2023/09/Vitrectomy-Surgery-2-768x768.png 768w, https://shekareyehospital.com/wp-content/uploads/2023/09/Vitrectomy-Surgery-2-1600x1600.png 1600w, https://shekareyehospital.com/wp-content/uploads/2023/09/Vitrectomy-Surgery-2-1536x1536.png 1536w, https://shekareyehospital.com/wp-content/uploads/2023/09/Vitrectomy-Surgery-2.png 2000w"
+    },
+    {
+      "src": "https://shekareyehospital.com/wp-content/uploads/2023/09/Retina-2-1024x1024.png?x96751",
+      "alt": "retina",
+      "width": "800",
+      "height": "800",
+      "srcset": "https://shekareyehospital.com/wp-content/uploads/2023/09/Retina-2-1024x1024.png 1024w, https://shekareyehospital.com/wp-content/uploads/2023/09/Retina-2-300x300.png 300w, https://shekareyehospital.com/wp-content/uploads/2023/09/Retina-2-150x150.png 150w, https://shekareyehospital.com/wp-content/uploads/2023/09/Retina-2-768x768.png 768w, https://shekareyehospital.com/wp-content/uploads/2023/09/Retina-2-1600x1600.png 1600w, https://shekareyehospital.com/wp-content/uploads/2023/09/Retina-2-1536x1536.png 1536w, https://shekareyehospital.com/wp-content/uploads/2023/09/Retina-2.png 2000w"
+    },
+    {
+      "src": "https://shekareyehospital.com/wp-content/uploads/2023/03/SEH-Online-Appointment-1024x679.webp?x96751",
+      "alt": "recieption",
+      "width": "800",
+      "height": "530",
+      "srcset": "https://shekareyehospital.com/wp-content/uploads/2023/03/SEH-Online-Appointment-1024x679.webp 1024w, https://shekareyehospital.com/wp-content/uploads/2023/03/SEH-Online-Appointment-300x199.webp 300w, https://shekareyehospital.com/wp-content/uploads/2023/03/SEH-Online-Appointment-768x510.webp 768w, https://shekareyehospital.com/wp-content/uploads/2023/03/SEH-Online-Appointment-600x398.webp 600w, https://shekareyehospital.com/wp-content/uploads/2023/03/SEH-Online-Appointment.webp 1275w"
+    },
+    {
+      "src": "https://shekareyehospital.com/wp-content/uploads/2025/10/SEH-WEB-Image-1.webp?x96751",
+      "alt": "google reviews",
+      "width": "1772",
+      "height": "907",
+      "srcset": "https://shekareyehospital.com/wp-content/uploads/2025/10/SEH-WEB-Image-1.webp 1772w, https://shekareyehospital.com/wp-content/uploads/2025/10/SEH-WEB-Image-1-300x154.webp 300w, https://shekareyehospital.com/wp-content/uploads/2025/10/SEH-WEB-Image-1-1024x524.webp 1024w, https://shekareyehospital.com/wp-content/uploads/2025/10/elementor/thumbs/SEH-WEB-Image-1-rdx8nhyps6513khulw5kr6i1igudvldldlp3fugpju.webp 768w, https://shekareyehospital.com/wp-content/uploads/2025/10/SEH-WEB-Image-1-50x26.webp 50w, https://shekareyehospital.com/wp-content/uploads/2025/10/SEH-WEB-Image-1-1600x819.webp 1600w, https://shekareyehospital.com/wp-content/uploads/2025/10/SEH-WEB-Image-1-1536x786.webp 1536w"
+    },
+    {
+      "src": "https://shekareyehospital.com/wp-content/uploads/2026/01/VK-award-receiving1-1024x683.webp?x96751",
+      "alt": "Vijaya Karnataka award",
+      "width": "800",
+      "height": "534",
+      "srcset": "https://shekareyehospital.com/wp-content/uploads/2026/01/VK-award-receiving1-1024x683.webp 1024w, https://shekareyehospital.com/wp-content/uploads/2026/01/VK-award-receiving1-300x200.webp 300w, https://shekareyehospital.com/wp-content/uploads/2026/01/VK-award-receiving1-768x512.webp 768w, https://shekareyehospital.com/wp-content/uploads/2026/01/VK-award-receiving1-50x33.webp 50w, https://shekareyehospital.com/wp-content/uploads/2026/01/VK-award-receiving1-1600x1067.webp 1600w, https://shekareyehospital.com/wp-content/uploads/2026/01/VK-award-receiving1-1536x1024.webp 1536w, https://shekareyehospital.com/wp-content/uploads/2026/01/VK-award-receiving1-2048x1365.webp 2048w"
+    },
+    {
+      "src": "https://shekareyehospital.com/wp-content/uploads/2026/10/ChatGPT-Image-Oct-1-2026-03_26_05-PM-1024x576.png?x96751",
+      "alt": "",
+      "width": "800",
+      "height": "450",
+      "srcset": "https://shekareyehospital.com/wp-content/uploads/2026/10/ChatGPT-Image-Oct-1-2026-03_26_05-PM-1024x576.png 1024w, https://shekareyehospital.com/wp-content/uploads/2026/10/ChatGPT-Image-Oct-1-2026-03_26_05-PM-50x28.png 50w, https://shekareyehospital.com/wp-content/uploads/2026/10/ChatGPT-Image-Oct-1-2026-03_26_05-PM-767x431.png 767w, https://shekareyehospital.com/wp-content/uploads/2026/10/ChatGPT-Image-Oct-1-2026-03_26_05-PM-300x169.png 300w, https://shekareyehospital.com/wp-content/uploads/2026/10/ChatGPT-Image-Oct-1-2026-03_26_05-PM-1536x864.png 1536w, https://shekareyehospital.com/wp-content/uploads/2026/10/ChatGPT-Image-Oct-1-2026-03_26_05-PM-1600x900.png 1600w, https://shekareyehospital.com/wp-content/uploads/2026/10/ChatGPT-Image-Oct-1-2026-03_26_05-PM.png 1672w"
+    },
+    {
+      "src": "https://shekareyehospital.com/wp-content/uploads/2025/12/Dr.-Archana-Singh-150x150.webp?x96751",
+      "alt": "Dr. Archana Singh",
+      "width": "150",
+      "height": "150",
+      "srcset": null
+    },
+    {
+      "src": "https://shekareyehospital.com/wp-content/uploads/2026/09/ChatGPT-Image-Sep-11-2026-05_36_02-PM-1024x683.webp?x96751",
+      "alt": "can-meditation-improve-eye-vision",
+      "width": "800",
+      "height": "534",
+      "srcset": "https://shekareyehospital.com/wp-content/uploads/2026/09/ChatGPT-Image-Sep-11-2026-05_36_02-PM-1024x683.webp 1024w, https://shekareyehospital.com/wp-content/uploads/2026/09/ChatGPT-Image-Sep-11-2026-05_36_02-PM-300x200.webp 300w, https://shekareyehospital.com/wp-content/uploads/2026/09/ChatGPT-Image-Sep-11-2026-05_36_02-PM-768x512.webp 768w, https://shekareyehospital.com/wp-content/uploads/2026/09/ChatGPT-Image-Sep-11-2026-05_36_02-PM-50x33.webp 50w, https://shekareyehospital.com/wp-content/uploads/2026/09/ChatGPT-Image-Sep-11-2026-05_36_02-PM.webp 1536w"
+    },
+    {
+      "src": "https://shekareyehospital.com/wp-content/uploads/2025/12/Dr.-Srinivas-K-N-150x150.webp?x96751",
+      "alt": "Dr. Srinivas K N",
+      "width": "150",
+      "height": "150",
+      "srcset": null
+    },
+    {
+      "src": "https://shekareyehospital.com/wp-content/uploads/2026/08/ChatGPT-Image-Aug-31-2026-01_43_38-PM-1024x683.png?x96751",
+      "alt": "glasses",
+      "width": "800",
+      "height": "534",
+      "srcset": "https://shekareyehospital.com/wp-content/uploads/2026/08/ChatGPT-Image-Aug-31-2026-01_43_38-PM-1024x683.png 1024w, https://shekareyehospital.com/wp-content/uploads/2026/08/ChatGPT-Image-Aug-31-2026-01_43_38-PM-300x200.png 300w, https://shekareyehospital.com/wp-content/uploads/2026/08/ChatGPT-Image-Aug-31-2026-01_43_38-PM-768x512.png 768w, https://shekareyehospital.com/wp-content/uploads/2026/08/ChatGPT-Image-Aug-31-2026-01_43_38-PM-50x33.png 50w, https://shekareyehospital.com/wp-content/uploads/2026/08/ChatGPT-Image-Aug-31-2026-01_43_38-PM.png 1536w"
+    },
+    {
+      "src": "https://shekareyehospital.com/wp-content/uploads/2025/12/Dr.-Srushti-D-Sv-150x150.webp?x96751",
+      "alt": "Dr. Srushti D S",
+      "width": "150",
+      "height": "150",
+      "srcset": null
+    },
+    {
+      "src": "https://shekareyehospital.com/wp-content/uploads/2025/03/maxresdefault.webp?x96751",
+      "alt": "Why Is Your Eye Power Increasing Suddenly? | Causes in Children &amp; Adults",
+      "width": null,
+      "height": null,
+      "srcset": null
+    },
+    {
+      "src": "https://shekareyehospital.com/wp-content/uploads/2025/03/maxresdefault.jpg?x96751",
+      "alt": "Glaucoma in Young Adults: Causes, Symptoms &amp; Prevention Tips | Dr. Sandhya | Shekar Eye Hospital",
+      "width": null,
+      "height": null,
+      "srcset": null
+    },
+    {
+      "src": "https://shekareyehospital.com/wp-content/uploads/2025/03/sddefault.jpg?x96751",
+      "alt": "LASIK at Shekar Eye Hospital: A Patient’s Incredible Experience! (Kannada)",
+      "width": null,
+      "height": null,
+      "srcset": null
+    },
+    {
+      "src": "https://shekareyehospital.com/wp-content/uploads/2024/01/maxresdefault-1.jpg?x96751",
+      "alt": "How Pregnancy Affects Your Eyes ? Causes &amp; Solutions | Shekar Eye Hospital",
+      "width": null,
+      "height": null,
+      "srcset": null
+    },
+    {
+      "src": "https://shekareyehospital.com/wp-content/uploads/2024/03/SEH-THU-1.jpg?x96751",
+      "alt": "Glaucoma Awareness - Walkathon, 13th March 2024 | Shekar Eye Hospital",
+      "width": null,
+      "height": null,
+      "srcset": null
+    },
+    {
+      "src": "https://shekareyehospital.com/wp-content/uploads/2024/01/Thumbnail1.jpg?x96751",
+      "alt": "Ocular Health &amp; Pregnancy: Protect Your Eyes During This Special...",
+      "width": null,
+      "height": null,
+      "srcset": null
+    },
+    {
+      "src": "https://shekareyehospital.com/wp-content/uploads/2024/01/maxresdefault.jpg?x96751",
+      "alt": "Cataract Surgery Tips for a Smooth Recovery | Shekar Eye Hospital",
+      "width": null,
+      "height": null,
+      "srcset": null
+    },
+    {
+      "src": "https://shekareyehospital.com/wp-content/uploads/2024/01/hqdefault.jpg?x96751",
+      "alt": "Post Cataract Surgery | Everything you need to know | Shekar Eye Hospital",
+      "width": null,
+      "height": null,
+      "srcset": null
+    },
+    {
+      "src": "https://shekareyehospital.com/wp-content/uploads/elementor/thumbs/SEH-Hospital-qwp08097bf4v5h1kkobks56yejtsoy97qwc78j5u5s.webp?x96751",
+      "alt": "SEH hospitals",
+      "width": null,
+      "height": null,
+      "srcset": null
+    },
+    {
+      "src": "https://shekareyehospital.com/wp-content/uploads/2023/10/24-1024x311.png?x96751",
+      "alt": "Shekar eye hospital logo",
+      "width": "800",
+      "height": "243",
+      "srcset": "https://shekareyehospital.com/wp-content/uploads/2023/10/24-1024x311.png 1024w, https://shekareyehospital.com/wp-content/uploads/2023/10/24-300x91.png 300w, https://shekareyehospital.com/wp-content/uploads/2023/10/24-768x233.png 768w, https://shekareyehospital.com/wp-content/uploads/2023/10/24.png 1034w"
+    },
+    {
+      "src": "https://shekareyehospital.com/wp-content/uploads/2023/10/NABH-2.png?x96751",
+      "alt": "NABH logo",
+      "width": "170",
+      "height": "120",
+      "srcset": null
+    },
+    {
+      "src": "https://shekareyehospital.com/wp-content/uploads/2023/02/SEH-Logo-White.webp?x96751",
+      "alt": "",
+      "width": "1034",
+      "height": "314",
+      "srcset": "https://shekareyehospital.com/wp-content/uploads/2023/02/SEH-Logo-White.webp 1034w, https://shekareyehospital.com/wp-content/uploads/2023/02/SEH-Logo-White-300x91.webp 300w, https://shekareyehospital.com/wp-content/uploads/2023/02/SEH-Logo-White-1024x311.webp 1024w, https://shekareyehospital.com/wp-content/uploads/2023/02/SEH-Logo-White-768x233.webp 768w, https://shekareyehospital.com/wp-content/uploads/2023/02/SEH-Logo-White-600x182.webp 600w"
+    }
+  ],
+  "cssLinks": [
+    "https://shekareyehospital.com/wp-content/plugins/gutenslider/build/gutenslider-init.css?x96751",
+    "https://shekareyehospital.com/wp-content/themes/hello-elementor/assets/css/theme.css?x96751",
+    "https://shekareyehospital.com/wp-content/themes/hello-elementor-child/style.css?x96751",
+    "https://shekareyehospital.com/wp-content/themes/hello-elementor/assets/css/reset.css?x96751",
+    "https://shekareyehospital.com/wp-content/themes/hello-elementor/assets/css/header-footer.css?x96751",
+    "https://shekareyehospital.com/wp-content/plugins/ele-custom-skin/modules/color-scheme/assets/css/ecs-color-scheme.min.css?x96751",
+    "https://shekareyehospital.com/wp-content/plugins/ele-custom-skin/modules/container-layout/assets/css/ecs-container-layout.min.css?x96751",
+    "https://shekareyehospital.com/wp-content/plugins/elementor/assets/lib/swiper/v8/css/swiper.min.css?x96751",
+    "https://shekareyehospital.com/wp-content/plugins/elementor/assets/css/conditionals/e-swiper.min.css?x96751",
+    "https://shekareyehospital.com/wp-content/plugins/ele-custom-skin/modules/mobile-menu/assets/css/ecs-mobile-menu.min.css?x96751",
+    "https://shekareyehospital.com/wp-content/plugins/ele-custom-skin/modules/editorial-text/assets/css/ecs-editorial-text.min.css?x96751",
+    "https://shekareyehospital.com/wp-content/plugins/elementor/assets/css/frontend.min.css?x96751",
+    "https://shekareyehospital.com/wp-content/uploads/elementor/css/post-8206.css?x96751",
+    "https://shekareyehospital.com/wp-content/plugins/elementor/assets/css/widget-image.min.css?x96751",
+    "https://shekareyehospital.com/wp-content/plugins/elementor-pro/assets/css/widget-nav-menu.min.css?x96751",
+    "https://shekareyehospital.com/wp-content/plugins/elementor/assets/lib/animations/styles/e-animation-shrink.min.css?x96751",
+    "https://shekareyehospital.com/wp-content/plugins/elementor/assets/css/widget-heading.min.css?x96751",
+    "https://shekareyehospital.com/wp-content/plugins/elementor-pro/assets/css/widget-form.min.css?x96751",
+    "https://shekareyehospital.com/wp-content/plugins/elementor/assets/css/widget-social-icons.min.css?x96751",
+    "https://shekareyehospital.com/wp-content/plugins/elementor/assets/css/conditionals/apple-webkit.min.css?x96751",
+    "https://shekareyehospital.com/wp-content/plugins/elementor/assets/css/widget-icon-list.min.css?x96751",
+    "https://shekareyehospital.com/wp-content/uploads/elementor/css/post-17.css?x96751",
+    "https://shekareyehospital.com/wp-content/plugins/ultimate-elementor/assets/min-css/uael-frontend.min.css?x96751",
+    "https://shekareyehospital.com/wp-content/plugins/elementor/assets/css/widget-social-icons.min.css?x96751",
+    "https://shekareyehospital.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/brands.css?x96751",
+    "https://shekareyehospital.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/fontawesome.css?x96751",
+    "https://shekareyehospital.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/solid.css?x96751",
+    "https://shekareyehospital.com/wp-content/plugins/elementor-pro/assets/css/widget-nested-carousel.min.css?x96751",
+    "https://shekareyehospital.com/wp-content/plugins/elementor/assets/css/widget-icon-box.min.css?x96751",
+    "https://shekareyehospital.com/wp-content/plugins/elementor/assets/css/conditionals/shapes.min.css?x96751",
+    "https://shekareyehospital.com/wp-content/plugins/elementor-pro/assets/css/widget-loop-common.min.css?x96751",
+    "https://shekareyehospital.com/wp-content/plugins/elementor-pro/assets/css/widget-loop-grid.min.css?x96751",
+    "https://shekareyehospital.com/wp-content/plugins/elementor/assets/css/widget-divider.min.css?x96751",
+    "https://shekareyehospital.com/wp-content/plugins/elementor/assets/css/widget-nested-tabs.min.css?x96751",
+    "https://shekareyehospital.com/wp-content/plugins/elementor-pro/assets/css/widget-blockquote.min.css?x96751",
+    "https://shekareyehospital.com/wp-content/plugins/elementor-pro/assets/css/widget-testimonial-carousel.min.css?x96751",
+    "https://shekareyehospital.com/wp-content/plugins/elementor-pro/assets/css/widget-carousel-module-base.min.css?x96751",
+    "https://shekareyehospital.com/wp-content/plugins/elementor-pro/assets/css/widget-video-playlist.min.css?x96751",
+    "https://shekareyehospital.com/wp-content/plugins/elementor/assets/css/widget-nested-accordion.min.css?x96751",
+    "https://shekareyehospital.com/wp-content/uploads/elementor/css/post-7917.css?x96751",
+    "https://shekareyehospital.com/wp-content/uploads/elementor/css/post-7926.css?x96751",
+    "https://shekareyehospital.com/wp-content/uploads/elementor/css/post-8122.css?x96751",
+    "https://shekareyehospital.com/wp-content/plugins/ele-custom-skin/assets/css/ecs-style.min.css?x96751",
+    "https://shekareyehospital.com/wp-content/uploads/elementor/css/post-1024.css?x96751",
+    "https://shekareyehospital.com/wp-content/uploads/elementor/css/post-1149.css?x96751",
+    "https://shekareyehospital.com/wp-content/uploads/elementor/google-fonts/css/ptsans.css?x96751",
+    "https://shekareyehospital.com/wp-content/uploads/elementor/google-fonts/css/roboto.css?x96751",
+    "https://shekareyehospital.com/wp-content/uploads/elementor/google-fonts/css/montserrat.css?x96751",
+    "https://shekareyehospital.com/wp-content/plugins/elementor/assets/lib/animations/styles/slideInLeft.min.css?x96751",
+    "https://shekareyehospital.com/wp-content/plugins/elementor-pro/assets/css/conditionals/popup.min.css?x96751"
+  ],
+  "fonts": [
+    "font-family: 'Neo Sans'; font-style: normal; font-weight: normal; font-display: auto; src: url('https://shekareyehospital.com/wp-content/uploads/2023/02/NeoSansProRegular.woff2') format('woff2'), url('https://shekareyehospital.com/wp-content/uploads/2023/02/NeoSansProRegular.ttf') format('truetype');",
+    "font-family: 'Neo Sans'; font-style: italic; font-weight: normal; font-display: auto; src: url('https://shekareyehospital.com/wp-content/uploads/2023/02/NeoSansProItalic.ttf') format('truetype');",
+    "font-family: 'Neo Sans'; font-style: normal; font-weight: 300; font-display: auto; src: url('https://shekareyehospital.com/wp-content/uploads/2023/02/NeoSansProLight.ttf') format('truetype');",
+    "font-family: 'Neo Sans'; font-style: italic; font-weight: 300; font-display: auto; src: url('https://shekareyehospital.com/wp-content/uploads/2023/02/NeoSansProLightIt.ttf') format('truetype');",
+    "font-family: 'Neo Sans'; font-style: normal; font-weight: 500; font-display: auto; src: url('https://shekareyehospital.com/wp-content/uploads/2023/02/NeoSansProMedium.woff2') format('woff2'), url('https://shekareyehospital.com/wp-content/uploads/2023/02/NeoSansProMedium.ttf') format('truetype');",
+    "font-family: 'Neo Sans'; font-style: italic; font-weight: 500; font-display: auto; src: url('https://shekareyehospital.com/wp-content/uploads/2023/02/NeoSansProMedIt.ttf') format('truetype');",
+    "font-family: 'Neo Sans'; font-style: normal; font-weight: 700; font-display: auto; src: url('https://shekareyehospital.com/wp-content/uploads/2023/02/NeoSansProBold.woff2') format('woff2'), url('https://shekareyehospital.com/wp-content/uploads/2023/02/NeoSansProBold.ttf') format('truetype');",
+    "font-family: 'Neo Sans'; font-style: italic; font-weight: 700; font-display: auto; src: url('https://shekareyehospital.com/wp-content/uploads/2023/02/NeoSansProBoldIt.ttf') format('truetype');",
+    "font-family: 'Neo Sans'; font-style: normal; font-weight: 900; font-display: auto; src: url('https://shekareyehospital.com/wp-content/uploads/2023/02/NeoSansProUltra.ttf') format('truetype');",
+    "font-family: 'Neo Sans'; font-style: italic; font-weight: 900; font-display: auto; src: url('https://shekareyehospital.com/wp-content/uploads/2023/02/NeoSansProUltIt.ttf') format('truetype');",
+    "font-family: 'Neo Sans'; font-style: normal; font-weight: 800; font-display: auto; src: url('https://shekareyehospital.com/wp-content/uploads/2023/02/NeoSansProBlack.ttf') format('truetype');",
+    "font-family: 'Neo Sans'; font-style: italic; font-weight: 800; font-display: auto; src: url('https://shekareyehospital.com/wp-content/uploads/2023/02/NeoSansProUltIt.ttf') format('truetype');"
+  ],
+  "headings": [
+    {
+      "tag": "h2",
+      "text": "Robotic Cataract Surgery: We’ve got tomorrow’s technology, today—for you!"
+    },
+    {
+      "tag": "h2",
+      "text": "Beyond Expectations: Experience Expertise at Shekar Eye Hospital"
+    },
+    {
+      "tag": "h2",
+      "text": "Eye Insights"
+    },
+    {
+      "tag": "h2",
+      "text": "Our Doctors"
+    },
+    {
+      "tag": "h2",
+      "text": "Appointment"
+    },
+    {
+      "tag": "h2",
+      "text": "Visit Our Hospital"
+    },
+    {
+      "tag": "h2",
+      "text": "Welcome To Shekar Eye Hospital"
+    },
+    {
+      "tag": "h3",
+      "text": "Revealing Excellence in Eye Care"
+    },
+    {
+      "tag": "h3",
+      "text": "Comprehensive Vision Services"
+    },
+    {
+      "tag": "h3",
+      "text": "Patient-Centric Care"
+    },
+    {
+      "tag": "h2",
+      "text": "Eye Care That we Specialize in"
+    },
+    {
+      "tag": "h2",
+      "text": "Cataract Treatment"
+    },
+    {
+      "tag": "h2",
+      "text": "LASIK &amp; Refractive"
+    },
+    {
+      "tag": "h2",
+      "text": "Diabetic Eye Care"
+    },
+    {
+      "tag": "h2",
+      "text": "Squint Treatment"
+    },
+    {
+      "tag": "h2",
+      "text": "Glaucoma Treatment"
+    },
+    {
+      "tag": "h2",
+      "text": "Pediatric Ophthal"
+    },
+    {
+      "tag": "h2",
+      "text": "Oculoplasty Procedures"
+    },
+    {
+      "tag": "h2",
+      "text": "Cornea"
+    },
+    {
+      "tag": "h2",
+      "text": "Myopia (Nearsightedness)"
+    },
+    {
+      "tag": "h2",
+      "text": "Vitrectomy Surgery"
+    },
+    {
+      "tag": "h2",
+      "text": "Retina"
+    },
+    {
+      "tag": "h2",
+      "text": "Hassle-Free Online Appointments - with just a click"
+    },
+    {
+      "tag": "h2",
+      "text": "Visit Shekar Eye Hospital in Bangalore"
+    },
+    {
+      "tag": "h2",
+      "text": "Meet Our Eye Specialists"
+    },
+    {
+      "tag": "h2",
+      "text": "New's &amp; Updates"
+    },
+    {
+      "tag": "h2",
+      "text": "Vijaya Karnataka Health Excellence Awards &amp; Conclave 2026"
+    },
+    {
+      "tag": "h2",
+      "text": "Our Latest Articles"
+    },
+    {
+      "tag": "h2",
+      "text": "Are You Making These Contact Lens Mistakes? 10 Habits That Could Harm Your Eyes"
+    },
+    {
+      "tag": "h2",
+      "text": "Dr. Archana Singh"
+    },
+    {
+      "tag": "h2",
+      "text": "Can Meditation Improve Your Eye Vision? What the Science Really Says"
+    },
+    {
+      "tag": "h2",
+      "text": "Dr. Srinivas K N"
+    },
+    {
+      "tag": "h2",
+      "text": "Why Are So Many Children Wearing Glasses Earlier Than Ever?"
+    },
+    {
+      "tag": "h2",
+      "text": "Dr. Srushti D S"
+    },
+    {
+      "tag": "h2",
+      "text": "Watch Our Latest YouTube Update"
+    },
+    {
+      "tag": "h2",
+      "text": "Playlist"
+    },
+    {
+      "tag": "h4",
+      "text": "Why Is Your Eye Power Increasing Suddenly? | Causes in Children & Adults"
+    },
+    {
+      "tag": "h4",
+      "text": "Glaucoma in Young Adults: Causes, Symptoms & Prevention Tips | Dr. Sandhya | Shekar Eye Hospital"
+    },
+    {
+      "tag": "h4",
+      "text": "LASIK at Shekar Eye Hospital: A Patient’s Incredible Experience! (Kannada)"
+    },
+    {
+      "tag": "h4",
+      "text": "How Pregnancy Affects Your Eyes ? Causes & Solutions | Shekar Eye Hospital"
+    },
+    {
+      "tag": "h4",
+      "text": "Glaucoma Awareness - Walkathon, 13th March 2024 | Shekar Eye Hospital"
+    },
+    {
+      "tag": "h4",
+      "text": "Ocular Health & Pregnancy: Protect Your Eyes During This Special..."
+    },
+    {
+      "tag": "h4",
+      "text": "Cataract Surgery Tips for a Smooth Recovery | Shekar Eye Hospital"
+    },
+    {
+      "tag": "h4",
+      "text": "Post Cataract Surgery | Everything you need to know | Shekar Eye Hospital"
+    },
+    {
+      "tag": "h2",
+      "text": "FAQ's"
+    },
+    {
+      "tag": "h2",
+      "text": "We'll call you back"
+    },
+    {
+      "tag": "h2",
+      "text": "We are on social media"
+    },
+    {
+      "tag": "h2",
+      "text": "Our Facility"
+    },
+    {
+      "tag": "h2",
+      "text": "Our Services"
+    },
+    {
+      "tag": "h2",
+      "text": "Quick Links"
+    },
+    {
+      "tag": "h2",
+      "text": "Copyright © 2026 Shekar Eye Hospital. All Rights Reserved."
+    }
+  ],
+  "navs": [
+    [
+      {
+        "href": "https://shekareyehospital.com/specialities/",
+        "text": "Specialities"
+      },
+      {
+        "href": "https://shekareyehospital.com/specialities/cataract-surgery-in-bangalore/",
+        "text": "Cataract Treatment"
+      },
+      {
+        "href": "https://shekareyehospital.com/specialities/lasik-surgery-cost-in-bangalore/",
+        "text": "LASIK &amp; Refractive"
+      },
+      {
+        "href": "https://shekareyehospital.com/specialities/glaucoma-surgery/",
+        "text": "Glaucoma Treatment"
+      },
+      {
+        "href": "https://shekareyehospital.com/specialities/diabetic-eye-care/",
+        "text": "Diabetic Eye Care"
+      },
+      {
+        "href": "https://shekareyehospital.com/specialities/squint-eye-surgery-in-bangalore/",
+        "text": "Squint Treatment"
+      },
+      {
+        "href": "https://shekareyehospital.com/specialities/oculoplasty/",
+        "text": "Oculoplasty"
+      },
+      {
+        "href": "https://shekareyehospital.com/specialities/pediatric-ophthalmologist-in-bangalore/",
+        "text": "Pediatric Ophthal Treatment"
+      },
+      {
+        "href": "https://shekareyehospital.com/specialities/the-cornea-of-eye/",
+        "text": "Cornea"
+      },
+      {
+        "href": "https://shekareyehospital.com/specialities/retina-of-eye/",
+        "text": "Retina"
+      },
+      {
+        "href": "https://shekareyehospital.com/specialities/myopia-treatment/",
+        "text": "Myopia (Nearsightedness)"
+      },
+      {
+        "href": "https://shekareyehospital.com/specialities/vitrectomy-surgery/",
+        "text": "Vitrectomy Surgery"
+      },
+      {
+        "href": "https://shekareyehospital.com/facilities/",
+        "text": "Facilities"
+      },
+      {
+        "href": "https://shekareyehospital.com/doctors/",
+        "text": "Doctors"
+      },
+      {
+        "href": "https://shekareyehospital.com/facilities/empanelment/",
+        "text": "Empanelment"
+      },
+      {
+        "href": "https://shekareyehospital.com/facilities/medical-insurance/",
+        "text": "Medical Insurance"
+      },
+      {
+        "href": "https://shekareyehospital.com/facilities/agilus-diagnostics/",
+        "text": "AGILUS Diagnostics"
+      },
+      {
+        "href": "https://shekareyehospital.com/facilities/opticals-by-ben-franklin/",
+        "text": "Opticals by BEN FRANKLIN"
+      },
+      {
+        "href": "https://shekareyehospital.com/facilities/vasudeva-murthy-memorial-eye-bank/",
+        "text": "Vasudeva Murthy Memorial Eye Bank"
+      },
+      {
+        "href": "https://shekareyehospital.com/happy-patients/",
+        "text": "Happy Patients"
+      },
+      {
+        "href": "https://shekareyehospital.com/happy-patients/testimonials/",
+        "text": "Testimonials"
+      },
+      {
+        "href": "https://shekareyehospital.com/happy-patients/international-patients/",
+        "text": "International Patients"
+      },
+      {
+        "href": "https://shekareyehospital.com/about-us/",
+        "text": "About Us"
+      },
+      {
+        "href": "https://shekareyehospital.com/about-us/founder/",
+        "text": "Founder"
+      },
+      {
+        "href": "https://shekareyehospital.com/doctors/",
+        "text": "Doctors"
+      },
+      {
+        "href": "https://shekareyehospital.com/about-us/quality/",
+        "text": "Quality"
+      },
+      {
+        "href": "https://shekareyehospital.com/about-us/career/",
+        "text": "Career"
+      },
+      {
+        "href": "https://shekareyehospital.com/about-us/media/",
+        "text": "Media"
+      },
+      {
+        "href": "https://shekareyehospital.com/daily-news-and-events/",
+        "text": "News and Event"
+      },
+      {
+        "href": "https://shekareyehospital.com/eye-insights/",
+        "text": "Eye Insights"
+      },
+      {
+        "href": "https://shekareyehospital.com/eye-insights/blogs/",
+        "text": "Blogs"
+      },
+      {
+        "href": "https://shekareyehospital.com/eye-insights/videos-shekar-eye-hospital/",
+        "text": "Videos"
+      },
+      {
+        "href": "https://shekareyehospital.com/eye-insights/presentations/",
+        "text": "Presentations"
+      },
+      {
+        "href": "https://shekareyehospital.com/community/",
+        "text": "Community"
+      },
+      {
+        "href": "https://shekareyehospital.com/community/free-eye-camp/",
+        "text": "Free Eye Camps"
+      },
+      {
+        "href": "https://shekareyehospital.com/contact-us/",
+        "text": "Contact Us"
+      }
+    ],
+    [
+      {
+        "href": "https://shekareyehospital.com/specialities/",
+        "text": "Specialities"
+      },
+      {
+        "href": "https://shekareyehospital.com/specialities/cataract-surgery-in-bangalore/",
+        "text": "Cataract Treatment"
+      },
+      {
+        "href": "https://shekareyehospital.com/specialities/lasik-surgery-cost-in-bangalore/",
+        "text": "LASIK &amp; Refractive"
+      },
+      {
+        "href": "https://shekareyehospital.com/specialities/glaucoma-surgery/",
+        "text": "Glaucoma Treatment"
+      },
+      {
+        "href": "https://shekareyehospital.com/specialities/diabetic-eye-care/",
+        "text": "Diabetic Eye Care"
+      },
+      {
+        "href": "https://shekareyehospital.com/specialities/squint-eye-surgery-in-bangalore/",
+        "text": "Squint Treatment"
+      },
+      {
+        "href": "https://shekareyehospital.com/specialities/oculoplasty/",
+        "text": "Oculoplasty"
+      },
+      {
+        "href": "https://shekareyehospital.com/specialities/pediatric-ophthalmologist-in-bangalore/",
+        "text": "Pediatric Ophthal Treatment"
+      },
+      {
+        "href": "https://shekareyehospital.com/specialities/the-cornea-of-eye/",
+        "text": "Cornea"
+      },
+      {
+        "href": "https://shekareyehospital.com/specialities/retina-of-eye/",
+        "text": "Retina"
+      },
+      {
+        "href": "https://shekareyehospital.com/specialities/myopia-treatment/",
+        "text": "Myopia (Nearsightedness)"
+      },
+      {
+        "href": "https://shekareyehospital.com/specialities/vitrectomy-surgery/",
+        "text": "Vitrectomy Surgery"
+      },
+      {
+        "href": "https://shekareyehospital.com/facilities/",
+        "text": "Facilities"
+      },
+      {
+        "href": "https://shekareyehospital.com/doctors/",
+        "text": "Doctors"
+      },
+      {
+        "href": "https://shekareyehospital.com/facilities/empanelment/",
+        "text": "Empanelment"
+      },
+      {
+        "href": "https://shekareyehospital.com/facilities/medical-insurance/",
+        "text": "Medical Insurance"
+      },
+      {
+        "href": "https://shekareyehospital.com/facilities/agilus-diagnostics/",
+        "text": "AGILUS Diagnostics"
+      },
+      {
+        "href": "https://shekareyehospital.com/facilities/opticals-by-ben-franklin/",
+        "text": "Opticals by BEN FRANKLIN"
+      },
+      {
+        "href": "https://shekareyehospital.com/facilities/vasudeva-murthy-memorial-eye-bank/",
+        "text": "Vasudeva Murthy Memorial Eye Bank"
+      },
+      {
+        "href": "https://shekareyehospital.com/happy-patients/",
+        "text": "Happy Patients"
+      },
+      {
+        "href": "https://shekareyehospital.com/happy-patients/testimonials/",
+        "text": "Testimonials"
+      },
+      {
+        "href": "https://shekareyehospital.com/happy-patients/international-patients/",
+        "text": "International Patients"
+      },
+      {
+        "href": "https://shekareyehospital.com/about-us/",
+        "text": "About Us"
+      },
+      {
+        "href": "https://shekareyehospital.com/about-us/founder/",
+        "text": "Founder"
+      },
+      {
+        "href": "https://shekareyehospital.com/doctors/",
+        "text": "Doctors"
+      },
+      {
+        "href": "https://shekareyehospital.com/about-us/quality/",
+        "text": "Quality"
+      },
+      {
+        "href": "https://shekareyehospital.com/about-us/career/",
+        "text": "Career"
+      },
+      {
+        "href": "https://shekareyehospital.com/about-us/media/",
+        "text": "Media"
+      },
+      {
+        "href": "https://shekareyehospital.com/daily-news-and-events/",
+        "text": "News and Event"
+      },
+      {
+        "href": "https://shekareyehospital.com/eye-insights/",
+        "text": "Eye Insights"
+      },
+      {
+        "href": "https://shekareyehospital.com/eye-insights/blogs/",
+        "text": "Blogs"
+      },
+      {
+        "href": "https://shekareyehospital.com/eye-insights/videos-shekar-eye-hospital/",
+        "text": "Videos"
+      },
+      {
+        "href": "https://shekareyehospital.com/eye-insights/presentations/",
+        "text": "Presentations"
+      },
+      {
+        "href": "https://shekareyehospital.com/community/",
+        "text": "Community"
+      },
+      {
+        "href": "https://shekareyehospital.com/community/free-eye-camp/",
+        "text": "Free Eye Camps"
+      },
+      {
+        "href": "https://shekareyehospital.com/contact-us/",
+        "text": "Contact Us"
+      }
+    ],
+    [
+      {
+        "href": "https://shekareyehospital.com/doctors/",
+        "text": "Doctors"
+      },
+      {
+        "href": "https://shekareyehospital.com/facilities/empanelment/",
+        "text": "Empanelment"
+      },
+      {
+        "href": "https://shekareyehospital.com/facilities/medical-insurance/",
+        "text": "Medical Insurance"
+      },
+      {
+        "href": "https://shekareyehospital.com/facilities/agilus-diagnostics/",
+        "text": "AGILUS Diagnostics"
+      },
+      {
+        "href": "https://shekareyehospital.com/facilities/opticals-by-ben-franklin/",
+        "text": "Opticals by BEN FRANKLIN"
+      },
+      {
+        "href": "https://shekareyehospital.com/facilities/vasudeva-murthy-memorial-eye-bank/",
+        "text": "Vasudeva Murthy Memorial Eye Bank"
+      }
+    ],
+    [
+      {
+        "href": "https://shekareyehospital.com/doctors/",
+        "text": "Doctors"
+      },
+      {
+        "href": "https://shekareyehospital.com/facilities/empanelment/",
+        "text": "Empanelment"
+      },
+      {
+        "href": "https://shekareyehospital.com/facilities/medical-insurance/",
+        "text": "Medical Insurance"
+      },
+      {
+        "href": "https://shekareyehospital.com/facilities/agilus-diagnostics/",
+        "text": "AGILUS Diagnostics"
+      },
+      {
+        "href": "https://shekareyehospital.com/facilities/opticals-by-ben-franklin/",
+        "text": "Opticals by BEN FRANKLIN"
+      },
+      {
+        "href": "https://shekareyehospital.com/facilities/vasudeva-murthy-memorial-eye-bank/",
+        "text": "Vasudeva Murthy Memorial Eye Bank"
+      }
+    ],
+    [
+      {
+        "href": "https://shekareyehospital.com/specialities/cataract-surgery-in-bangalore/",
+        "text": "Cataract Treatment"
+      },
+      {
+        "href": "https://shekareyehospital.com/specialities/lasik-surgery-cost-in-bangalore/",
+        "text": "LASIK &amp; Refractive"
+      },
+      {
+        "href": "https://shekareyehospital.com/specialities/glaucoma-surgery/",
+        "text": "Glaucoma Treatment"
+      },
+      {
+        "href": "https://shekareyehospital.com/specialities/diabetic-eye-care/",
+        "text": "Diabetic Eye Care"
+      },
+      {
+        "href": "https://shekareyehospital.com/specialities/squint-eye-surgery-in-bangalore/",
+        "text": "Squint Treatment"
+      },
+      {
+        "href": "https://shekareyehospital.com/specialities/oculoplasty/",
+        "text": "Oculoplasty"
+      },
+      {
+        "href": "https://shekareyehospital.com/specialities/pediatric-ophthalmologist-in-bangalore/",
+        "text": "Pediatric Ophthal Treatment"
+      },
+      {
+        "href": "https://shekareyehospital.com/specialities/the-cornea-of-eye/",
+        "text": "Cornea"
+      },
+      {
+        "href": "https://shekareyehospital.com/specialities/retina-of-eye/",
+        "text": "Retina"
+      },
+      {
+        "href": "https://shekareyehospital.com/specialities/myopia-treatment/",
+        "text": "Myopia (Nearsightedness)"
+      },
+      {
+        "href": "https://shekareyehospital.com/specialities/vitrectomy-surgery/",
+        "text": "Vitrectomy Surgery"
+      }
+    ],
+    [
+      {
+        "href": "https://shekareyehospital.com/specialities/cataract-surgery-in-bangalore/",
+        "text": "Cataract Treatment"
+      },
+      {
+        "href": "https://shekareyehospital.com/specialities/lasik-surgery-cost-in-bangalore/",
+        "text": "LASIK &amp; Refractive"
+      },
+      {
+        "href": "https://shekareyehospital.com/specialities/glaucoma-surgery/",
+        "text": "Glaucoma Treatment"
+      },
+      {
+        "href": "https://shekareyehospital.com/specialities/diabetic-eye-care/",
+        "text": "Diabetic Eye Care"
+      },
+      {
+        "href": "https://shekareyehospital.com/specialities/squint-eye-surgery-in-bangalore/",
+        "text": "Squint Treatment"
+      },
+      {
+        "href": "https://shekareyehospital.com/specialities/oculoplasty/",
+        "text": "Oculoplasty"
+      },
+      {
+        "href": "https://shekareyehospital.com/specialities/pediatric-ophthalmologist-in-bangalore/",
+        "text": "Pediatric Ophthal Treatment"
+      },
+      {
+        "href": "https://shekareyehospital.com/specialities/the-cornea-of-eye/",
+        "text": "Cornea"
+      },
+      {
+        "href": "https://shekareyehospital.com/specialities/retina-of-eye/",
+        "text": "Retina"
+      },
+      {
+        "href": "https://shekareyehospital.com/specialities/myopia-treatment/",
+        "text": "Myopia (Nearsightedness)"
+      },
+      {
+        "href": "https://shekareyehospital.com/specialities/vitrectomy-surgery/",
+        "text": "Vitrectomy Surgery"
+      }
+    ],
+    [
+      {
+        "href": "https://shekareyehospital.com/about-us/founder/",
+        "text": "Founder"
+      },
+      {
+        "href": "https://shekareyehospital.com/about-us/quality/",
+        "text": "Quality"
+      },
+      {
+        "href": "https://shekareyehospital.com/doctors/",
+        "text": "Doctors"
+      },
+      {
+        "href": "https://g.page/Shekareyehospital/review?gm",
+        "text": "Share your feedback"
+      },
+      {
+        "href": "https://shekareyehospital.com/eye-insights/blogs/",
+        "text": "Blogs"
+      },
+      {
+        "href": "https://shekareyehospital.com/happy-patients/",
+        "text": "Happy Patients"
+      },
+      {
+        "href": "https://shekareyehospital.com/about-us/career/",
+        "text": "Career"
+      },
+      {
+        "href": "https://shekareyehospital.com/about-us/media/",
+        "text": "Media"
+      }
+    ],
+    [
+      {
+        "href": "https://shekareyehospital.com/about-us/founder/",
+        "text": "Founder"
+      },
+      {
+        "href": "https://shekareyehospital.com/about-us/quality/",
+        "text": "Quality"
+      },
+      {
+        "href": "https://shekareyehospital.com/doctors/",
+        "text": "Doctors"
+      },
+      {
+        "href": "https://g.page/Shekareyehospital/review?gm",
+        "text": "Share your feedback"
+      },
+      {
+        "href": "https://shekareyehospital.com/eye-insights/blogs/",
+        "text": "Blogs"
+      },
+      {
+        "href": "https://shekareyehospital.com/happy-patients/",
+        "text": "Happy Patients"
+      },
+      {
+        "href": "https://shekareyehospital.com/about-us/career/",
+        "text": "Career"
+      },
+      {
+        "href": "https://shekareyehospital.com/about-us/media/",
+        "text": "Media"
+      }
+    ],
+    [
+      {
+        "href": "https://shekareyehospital.com/specialities/",
+        "text": "Specialities"
+      },
+      {
+        "href": "https://shekareyehospital.com/specialities/cataract-surgery-in-bangalore/",
+        "text": "Cataract Treatment"
+      },
+      {
+        "href": "https://shekareyehospital.com/specialities/lasik-surgery-cost-in-bangalore/",
+        "text": "LASIK &amp; Refractive"
+      },
+      {
+        "href": "https://shekareyehospital.com/specialities/glaucoma-surgery/",
+        "text": "Glaucoma Treatment"
+      },
+      {
+        "href": "https://shekareyehospital.com/specialities/diabetic-eye-care/",
+        "text": "Diabetic Eye Care"
+      },
+      {
+        "href": "https://shekareyehospital.com/specialities/squint-eye-surgery-in-bangalore/",
+        "text": "Squint Treatment"
+      },
+      {
+        "href": "https://shekareyehospital.com/specialities/oculoplasty/",
+        "text": "Oculoplasty"
+      },
+      {
+        "href": "https://shekareyehospital.com/specialities/pediatric-ophthalmologist-in-bangalore/",
+        "text": "Pediatric Ophthal Treatment"
+      },
+      {
+        "href": "https://shekareyehospital.com/specialities/the-cornea-of-eye/",
+        "text": "Cornea"
+      },
+      {
+        "href": "https://shekareyehospital.com/specialities/retina-of-eye/",
+        "text": "Retina"
+      },
+      {
+        "href": "https://shekareyehospital.com/specialities/myopia-treatment/",
+        "text": "Myopia (Nearsightedness)"
+      },
+      {
+        "href": "https://shekareyehospital.com/specialities/vitrectomy-surgery/",
+        "text": "Vitrectomy Surgery"
+      },
+      {
+        "href": "https://shekareyehospital.com/facilities/",
+        "text": "Facilities"
+      },
+      {
+        "href": "https://shekareyehospital.com/doctors/",
+        "text": "Doctors"
+      },
+      {
+        "href": "https://shekareyehospital.com/facilities/empanelment/",
+        "text": "Empanelment"
+      },
+      {
+        "href": "https://shekareyehospital.com/facilities/medical-insurance/",
+        "text": "Medical Insurance"
+      },
+      {
+        "href": "https://shekareyehospital.com/facilities/agilus-diagnostics/",
+        "text": "AGILUS Diagnostics"
+      },
+      {
+        "href": "https://shekareyehospital.com/facilities/opticals-by-ben-franklin/",
+        "text": "Opticals by BEN FRANKLIN"
+      },
+      {
+        "href": "https://shekareyehospital.com/facilities/vasudeva-murthy-memorial-eye-bank/",
+        "text": "Vasudeva Murthy Memorial Eye Bank"
+      },
+      {
+        "href": "https://shekareyehospital.com/happy-patients/",
+        "text": "Happy Patients"
+      },
+      {
+        "href": "https://shekareyehospital.com/happy-patients/testimonials/",
+        "text": "Testimonials"
+      },
+      {
+        "href": "https://shekareyehospital.com/happy-patients/international-patients/",
+        "text": "International Patients"
+      },
+      {
+        "href": "https://shekareyehospital.com/about-us/",
+        "text": "About Us"
+      },
+      {
+        "href": "https://shekareyehospital.com/about-us/founder/",
+        "text": "Founder"
+      },
+      {
+        "href": "https://shekareyehospital.com/doctors/",
+        "text": "Doctors"
+      },
+      {
+        "href": "https://shekareyehospital.com/about-us/quality/",
+        "text": "Quality"
+      },
+      {
+        "href": "https://shekareyehospital.com/about-us/career/",
+        "text": "Career"
+      },
+      {
+        "href": "https://shekareyehospital.com/about-us/media/",
+        "text": "Media"
+      },
+      {
+        "href": "https://shekareyehospital.com/daily-news-and-events/",
+        "text": "News and Event"
+      },
+      {
+        "href": "https://shekareyehospital.com/eye-insights/",
+        "text": "Eye Insights"
+      },
+      {
+        "href": "https://shekareyehospital.com/eye-insights/blogs/",
+        "text": "Blogs"
+      },
+      {
+        "href": "https://shekareyehospital.com/eye-insights/videos-shekar-eye-hospital/",
+        "text": "Videos"
+      },
+      {
+        "href": "https://shekareyehospital.com/eye-insights/presentations/",
+        "text": "Presentations"
+      },
+      {
+        "href": "https://shekareyehospital.com/community/",
+        "text": "Community"
+      },
+      {
+        "href": "https://shekareyehospital.com/community/free-eye-camp/",
+        "text": "Free Eye Camps"
+      },
+      {
+        "href": "https://shekareyehospital.com/contact-us/",
+        "text": "Contact Us"
+      }
+    ]
+  ],
+  "phones": [
+    "1000000000000",
+    "0008881784197",
+    "0012523233890",
+    "533447265625",
+    "+91 99805 62020",
+    "1432080846811",
+    "+91 9980562020",
+    "200800299",
+    "2008002991",
+    "2008002992",
+    "tel:+919980562020"
+  ],
+  "emails": []
+}
